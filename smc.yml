@@ -1,0 +1,12 @@
+name: smc
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - pandas
+  - jupyterlab
+  - bokeh
+  - holoviews
+  - nodejs
+
